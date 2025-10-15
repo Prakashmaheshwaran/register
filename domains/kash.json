@@ -1,6 +1,7 @@
 {
   "owner": {
-    "username": "Prakashmaheshwaran"
+    "username": "Prakashmaheshwaran",
+    "email": "pmaheshwaran@binghamton.edu"
   },
   "records": {
     "CNAME": "modern-dynamic-portfolio.vercel.app"
